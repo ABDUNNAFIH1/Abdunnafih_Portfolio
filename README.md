@@ -1,242 +1,155 @@
 # 👋 Hi, I'm Abdunnafih
+Python Developer | ETL Developer | REST API Integration | Data Analyst | Business Intelligence
 
-### Python Developer | ETL Developer | REST API Integration | SQL Server | Data Analytics | Power BI
-
----
+<!--Section 1: Introduction-->
 
 ## 🌟 About Me
 
-I'm an aspiring **Python Developer** and **Data Analyst** currently pursuing a **Bachelor of Technology in Information Technology**.
+I'm an aspiring **Python Developer** with hands-on experience in **Data Analytics**, **ETL Pipeline Development**, and **Business Intelligence** through my internship at **Rows & Columns Consultancy**.
 
-During my internship at **Rows & Columns Consultancy**, I gained hands-on experience developing Python automation scripts, integrating REST APIs, designing ETL pipelines, building SQL databases, and creating interactive Power BI dashboards.
+I enjoy designing automated data solutions by integrating **REST APIs**, building **ETL pipelines**, developing **web scraping applications**, and transforming raw data into meaningful business insights using **Python**, **SQL Server**, and **Power BI**.
 
-I enjoy solving real-world business problems through automation, backend development, data engineering, and business intelligence. I'm continuously learning modern Python technologies and best practices to build scalable and efficient applications.
+My work focuses on automation, scalable data processing, interactive dashboards, and solving real-world business problems through modern data engineering practices.
 
-🚀 My goal is to become a skilled Python Developer specializing in backend development, data engineering, and automation.
+I continuously explore new technologies in Python development, API integration, cloud fundamentals, and data engineering to build efficient and scalable applications.
+
+🚀 Passionate about building automation solutions that transform data into business value.
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Technology (B.Tech) – Information Technology
-**MES College of Engineering**
-APJ Abdul Kalam Technological University (KTU)
-
-**Status:** Currently Pursuing
-
----
-
-# 💼 Professional Experience
-
-## 🔹 Data Analyst Intern
-### Rows & Columns Consultancy | Kozhikode
-**January 2026 – Present**
-
-During my internship I worked on multiple real-world business projects involving Python, SQL Server, REST APIs and Business Intelligence.
-
-### Responsibilities
-
-- Developed Python automation scripts for business workflows
-- Built ETL pipelines using Python and SQL Server
-- Integrated REST APIs and automated data extraction
-- Performed data cleaning and preprocessing using Pandas
-- Created Power BI dashboards for KPI reporting
-- Wrote optimized SQL queries for reporting and analysis
-- Automated data collection using SERP API
-- Collaborated with mentors to develop scalable automation solutions
+- **Bachelor of Technology (B.Tech) – Information Technology**
+  *MES College of Engineering*
+  *APJ Abdul Kalam Technological University (KTU), Kerala*
+  **Currently Pursuing**
 
 ---
 
-# 📊 Featured Projects
+# 💼 Work Experience
 
-## ⚽ English Premier League Analytics ETL Pipeline
+## 🔹 Data Analyst Intern / Python Developer Intern — *Rows & Columns Consultancy, Kozhikode*
 
+- Developed Python automation scripts for multiple business projects.
+- Built complete ETL pipelines integrating REST APIs, Python, SQL Server, and Power BI.
+- Automated data collection using REST APIs and SERP API.
+- Wrote optimized SQL queries for data extraction, validation, and reporting.
+- Built interactive Power BI dashboards using DAX, Power Query, and Data Modeling.
+- Processed and transformed JSON data using Pandas and NumPy.
+- Worked with CRM datasets, sports analytics, and business intelligence projects.
+- Collaborated with senior developers to build scalable automation and reporting workflows.
+
+---
+
+## 📊 Projects
+
+---
+
+### ⚽ English Premier League Analytics ETL Pipeline
 **Python | REST API | SQL Server | Power BI**
 
-Designed a complete ETL pipeline that automatically collects football statistics from a REST API, transforms the data using Python, stores it in SQL Server, and visualizes insights in Power BI.
+📌 Developed a complete ETL pipeline that automates the collection, transformation, storage, and visualization of English Premier League data.
 
-### Key Features
+#### Highlights
+- Integrated API-Football REST API with Python.
+- Built an automated ETL workflow (REST API → Python → SQL Server → Power BI).
+- Processed standings, team statistics, wins, losses, goals, and league performance.
+- Automated SQL data insertion and updates.
+- Designed an interactive Power BI dashboard for football analytics.
 
-- REST API Integration
-- Automated ETL Pipeline
-- SQL Database Design
-- Data Cleaning & Transformation
-- Automated SQL Upsert
-- Interactive Power BI Dashboard
+#### Skills Used
+Python • REST API • SQL Server • ETL • Power BI • Pandas
 
-### Technologies
-
-Python • Requests • Pandas • SQL Server • Power BI
-
----
-
-## 🏋️ Gym Business Web Scraping & Data Analysis
-
-**Python | SERP API | Requests | Pandas**
-
-Developed an automated web scraping solution to collect business information for competitor analysis and market research.
-
-### Key Features
-
-- Automated Business Data Collection
-- Data Cleaning
-- CSV Export
-- Market Analysis
-- Business Intelligence Reporting
-
-### Technologies
-
-Python • Requests • SERP API • Pandas
+🔗 **LinkedIn Post:** <>https://www.linkedin.com/posts/abdunnafih-thayyullathil_python-dataengineering-etl-activity-7483213810221322240-Igmh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4
 
 ---
 
-## 📰 News API ETL Pipeline
+### 🏋️ Gym Business Web Scraping & Market Intelligence
+**Python | SERP API | Pandas | Requests**
 
-**Python | NewsAPI | PostgreSQL | SQLAlchemy**
+📌 Built a fully automated web scraping solution to collect gym business information for market analysis.
 
-Developed an automated pipeline that collects news articles from NewsAPI, stores them in PostgreSQL with duplicate handling, and exports clean datasets for analysis.
+#### Highlights
+- Retrieved thousands of business records using SERP API.
+- Automated data extraction and cleaning.
+- Performed competitor benchmarking.
+- Generated datasets for business intelligence and market research.
+- Reduced manual data collection significantly through automation.
 
-### Key Features
+#### Skills Used
+Python • Web Scraping • SERP API • Pandas • Requests • Data Cleaning
 
-- REST API Integration
-- PostgreSQL Database
-- SQLAlchemy ORM
-- Duplicate Detection
-- CSV Export
-- Automated Data Pipeline
-
-### Technologies
-
-Python • PostgreSQL • SQLAlchemy • Pandas • NewsAPI
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/abdunnafih-thayyullathil_python-webscraping-serpapi-activity-7483213015773863936-P3kC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4>
 
 ---
 
-## 📈 CRM Sales Analytics Dashboard
+### 📈 Sales & Customer Dashboard
+**Tableau | Excel**
 
+📌 Designed an interactive Tableau dashboard to analyze sales performance and customer behavior.
+
+#### Highlights
+- Built interactive dashboards with filters and drill-down capabilities.
+- Analyzed customer purchasing trends.
+- Visualized revenue, sales growth, and regional performance.
+- Improved business reporting through effective data visualization.
+
+#### Skills Used
+Tableau • Excel • Data Visualization • Dashboard Design
+
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/abdunnafih-thayyullathil_tableau-dataanalytics-businessintelligence-activity-7483195688709918720-3r37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4>
+
+---
+
+### 📊 CRM Sales Analytics Dashboard
 **Power BI | DAX | Excel**
 
-Designed and developed an interactive CRM dashboard using more than **3,000 CRM records** to analyze sales performance and business KPIs.
+📌 Developed an interactive CRM dashboard for monitoring sales performance and business KPIs.
 
-### Dashboard Highlights
+#### Highlights
+- Built a complete Power BI data model.
+- Developed advanced DAX measures.
+- Created KPIs for Revenue, Leads, Conversion Rate, Deal Value, and Sales Pipeline.
+- Designed interactive reports using Maps, Matrix, Funnel Charts, KPI Cards, and Slicers.
+- Delivered business recommendations to improve sales efficiency.
 
-- Revenue Analysis
-- Sales Funnel
-- Lead Conversion
-- KPI Cards
-- Interactive Filters
-- Customer Performance
-- Regional Analysis
+#### Skills Used
+Power BI • DAX • Excel • Data Modeling • Business Intelligence
 
-### Technologies
-
-Power BI • DAX • Excel • Data Modeling
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/abdunnafih-thayyullathil_powerbi-dataanalytics-crm-activity-7449474719633870848-qwEk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4>
 
 ---
 
-# 📜 Technical Skills
+### 🏨 Hospitality Revenue Analytics Dashboard
+**Power BI | Excel**
 
-## Programming
+📌 Created a hospitality analytics dashboard to evaluate hotel business performance.
 
-- Python
+#### Highlights
+- Analyzed occupancy trends.
+- Built KPIs including ADR, RevPAR, Occupancy %, and Revenue.
+- Developed executive dashboards for decision making.
+- Used interactive filters and drill-through reports.
 
-## Databases
+#### Skills Used
+Power BI • DAX • Excel • Data Analytics
 
-- Microsoft SQL Server
-- PostgreSQL
-- SQL
-- SQLAlchemy
-- pyodbc
-
-## Python Libraries
-
-- Pandas
-- NumPy
-- Requests
-- BeautifulSoup
-- Scrapy
-- lxml
-- urllib
-
-## Data Engineering
-
-- REST API Integration
-- ETL Pipelines
-- Web Scraping
-- JSON Processing
-- Data Cleaning
-- Data Validation
-- Data Automation
-
-## Business Intelligence
-
-- Power BI
-- DAX
-- Power Query
-- Tableau
-- Advanced Excel
-
-## Tools
-
-- VS Code
-- Jupyter Notebook
-- Git (Learning)
-- GitHub
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/abdunnafih-thayyullathil_powerbi-dataanalytics-businessintelligence-activity-7442985225321811969-sapM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4>
 
 ---
 
-# 📜 Certifications
+### 📊 Sales Analysis Dashboard
+**Microsoft Excel**
 
-✅ Data Analyst Internship – Rows & Columns Consultancy
+📌 Built an Excel dashboard to monitor and analyze business sales performance.
 
----
+#### Highlights
+- Used Pivot Tables and Pivot Charts.
+- Applied XLOOKUP, INDEX-MATCH, Conditional Formatting, and Data Validation.
+- Designed KPI dashboards.
+- Analyzed monthly sales trends and customer performance.
 
-# 🎯 Currently Learning
+#### Skills Used
+Microsoft Excel • Pivot Tables • Dashboard Design • Business Analysis
 
-- Advanced Python
-- FastAPI
-- Django
-- PostgreSQL
-- Docker
-- Git & GitHub
-- Cloud Fundamentals
-- Data Engineering
-
----
-
-# 📈 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdunnafih&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdunnafih&layout=compact&theme=github_dark)
-
----
-
-# 🧠 Interests
-
-- Python Development
-- Backend Development
-- Data Engineering
-- REST APIs
-- Automation
-- Business Intelligence
-- Data Analytics
-
----
-
-# 📫 Contact
-
-Let's connect and collaborate!
-
-| Contact | Details |
-|----------|---------|
-| 📧 Email | nafiz786abdu@gmail.com |
-| 📞 Phone | +91 8089565617 |
-| 📍 Location | Kozhikode, Kerala, India |
-| 💼 LinkedIn | https://linkedin.com/in/abdunnafih-thayyullathil |
-| 💻 GitHub | https://github.com/Abdunnafih |
-
----
-
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+🔗 **LinkedIn Post:** <https://www.linkedin.com/posts/abdunnafih-thayyullathil_exceldashboard-salesanalysis-dataanalytics-activity-7439756166840356864-0xB0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD08QdoBjRdU0UC04cN3_licR5g00z48Ah4>
